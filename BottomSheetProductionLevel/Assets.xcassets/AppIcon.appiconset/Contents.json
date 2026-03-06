@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Manali 1.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Manali 2.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "Manali.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
